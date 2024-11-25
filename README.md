@@ -1,5 +1,5 @@
 # Hey There 👋| I am Vaidic Jain
-* 👋 I am MERN and Web3 Developer, UI/UX Designer and Content Writer<br><br>
+* 👋 I am Full Stack Developer, UI/UX Designer and Content Writer<br><br>
 * 👀 I am a learner and explorer who always wants to learn more.<br><br>
 * 🌱 I’m currently learning Web3, ether.js, solidity, Blockchain<br><br>
 * 📫 Reach me at vaidicdevelops@gmail.com<br><br>
