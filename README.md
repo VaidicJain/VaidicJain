@@ -1,27 +1,76 @@
-# Hey There 👋| I am Vaidic Jain
-* 👋 I am Full Stack Developer<br><br>
-* 👀 I am a learner and explorer who always wants to learn more.<br><br>
-* 📫 Reach me at vaidicdevelops@gmail.com<br><br>
-<hr/>
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Vaidic Jain, Software Engineer. Frontend specialist and full-stack builder: React, Next.js, TypeScript, Node.js, FastAPI.">
+</picture>
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Vishhuuu) 
-<hr/>
+# Hi, I'm Vaidic Jain 👋
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-<hr/>
+**Software Engineer · Frontend Specialist · Full-Stack Builder**
 
-# 📊 GitHub Stats:
+[![GitHub](https://img.shields.io/badge/GitHub-VaidicJain-181717?style=flat&logo=github&logoColor=white)](https://github.com/VaidicJain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vaidicjain-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaidicjain)
+[![Email](https://img.shields.io/badge/Email-vaidicdevelops@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vaidicdevelops@gmail.com)
 
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=VaidicJain&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VaidicJain&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaidicJain&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<hr/>
+---
 
-### 😂 Random Dev Meme
-<img src='https://i.pinimg.com/736x/91/e6/80/91e68022dc1b34aa1d00a79344f71dcc.jpg' style="height: 400px;"/>
+## 🧭 About
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a software engineer based in **Bhopal, India** with ~2 years of professional experience. I like solving real problems rather than just executing tickets. At a fast-moving startup I've grown from implementing features to owning them end-to-end, often working directly with stakeholders to figure out *what* needs to be built before figuring out *how*.
+
+My strength is **React, Next.js, and TypeScript**. I'm now deliberately deepening my backend skills with **FastAPI**, so I can take an idea from a rough problem statement to a shipped, reliable product.
+
+## 💼 Experience
+
+**Software Development Engineer – I · [Duochat.io](https://duochat.io)** &nbsp;·&nbsp; *Sep 2024 – Present*
+- Own frontend delivery for core modules of a **WhatsApp automation SaaS platform used by 500+ businesses**, defining campaign-management and messaging-workflow behavior directly with stakeholders.
+- Built an **RTK Query data layer** that cut redundant API calls by **~40%** and enabled near real-time sync across multiple global markets.
+- Built a **Next.js + TanStack Table portal handling 80K+ product records**, using table virtualization to cut render time by **~50%**.
+- Integrated **Zoho CRM APIs** for bidirectional lead synchronization (create, update, retrieve).
+- Set up testing with **Jest, Mocha, and Playwright** (unit, integration, and end-to-end) for critical platform flows.
+- Shipped **10+ production modules across 2 concurrent product tracks**.
+
+**Frontend Developer · Bharat Agrolink** &nbsp;·&nbsp; *Apr 2024 – Sep 2024*
+- Built a reusable component library that sped up delivery and kept the design system consistent.
+- Built the complete frontend for a **CRM platform** (reports, dashboard, orders, vendor management) from Figma designs using Next.js, TypeScript, and Tailwind CSS.
+- Designed a multi-step vendor onboarding flow with client-side validation and state persistence.
+
+## 🚀 Featured Project
+
+### Employee Management Dashboard — Full-Stack HR Platform
+`Next.js` `React` `TypeScript` `FastAPI` `MongoDB` `Redux Toolkit` `JWT` `Cloudinary` `Tailwind CSS`
+
+- FastAPI REST backend with JWT/bcrypt authentication and MongoDB, covering the full employee lifecycle.
+- Real-time dashboard stats, CRUD across attendance, leave, and project modules, Excel report exports, and Cloudinary-based profile images.
+- Modular Next.js 15 frontend with Redux Toolkit, light/dark mode, and search/filter/sort across all modules.
+
+## 🛠️ Engineering Stack
+
+| Area | Technologies |
+|---|---|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white) |
+| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **Testing** | ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
+
+## 🎓 Education
+
+**B.Tech, Computer Science and Engineering** — Vellore Institute of Technology *(Aug 2021 – Oct 2025)*
+
+## 🤝 Connect
+
+- 🐙 GitHub: [github.com/VaidicJain](https://github.com/VaidicJain)
+- 💼 LinkedIn: [linkedin.com/in/vaidicjain](https://www.linkedin.com/in/vaidicjain)
+- 📧 Email: [vaidicdevelops@gmail.com](mailto:vaidicdevelops@gmail.com)
+
+<div align="center">
+
+*Currently deepening my backend skills with FastAPI.*
+
+</div>
